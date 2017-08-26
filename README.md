@@ -1,6 +1,6 @@
 # PercentOnScrollListener
 
-Here is a android lib for RecyclerView.OnScrollListener.
+Here is an android lib for RecyclerView.OnScrollListener.
 This lib contains a `PercentOnScrollLisenter` and a simple implement `ScaleOnScrollLisenter`.
 (Only works with LinearLayoutManger now, both vertical and horizontal.)
 
